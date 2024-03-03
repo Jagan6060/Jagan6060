@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1><u>FORM</u></h1>
+  <hr>
+  <ol>
+  <li><audio src="nam bata.m4a" controls></audio></li>
+  <input type="text" placeholder="Enter your name">
+    <hr>
+    <li>
+      <input type="radio" id="male" name="gender" value="male">
+      <label for="male">Male</label>
+      <input type="radio" id="female" name="gender" value="female">
+      <label for="female">female</label>
+    </li>
+    <hr>
+  <li><audio src="subject.m4a" controls></audio></li>
+  <select name="Favourite subject" id="Favourite subject">
+    <option value="Maths">Maths</option>
+    <option value="English">English</option>
+    <option value="Science">science</option>
+    <option value="odia">odia</option>
+    <option value="Sanskrit">Sanskrit</option>
+    <optiion value="Hindi">Hindi</optiion>
+    <option value="SST">sst</option>
+    <option value="Computer">Computer</option>
+  </select>
+  
+    <hr>
+    <li><audio src="poem.m4a" controls></audio></li>
+    <input type="text" placeholder="Enter your name">
+    <hr>
+  <script src="script.js"></script>
+    <li><audio src="pm name.m4a" controls></audio></li>
+    <input type="text" placeholder="Enter pm name">
+  <hr>
+
+    <span><a href="https://www.google.com">SUBMIT</a>
+    </span>
+    
+    
+    
+</body>
+
+</html>- 👋 Hi, I’m @Jagan6060
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Jagan6060/Jagan6060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
